@@ -1,0 +1,51 @@
+nav{
+    background-color: #ffe8b5;
+    margin-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: rgb(224, 142, 75);
+}
+
+h2, h3 {
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #333;
+}
+
+.indexbutton{
+  background-color: #ffe8b5;
+  color: rgb(224, 142, 75);
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 10px;
+  border-style: none;
+}
+
+.indexbutton:hover{
+    background-color: #ffa875;
+    color: white;
+}
+
+.secondarybutton{
+    border-color:rgb(224, 142, 75);
+    color: rgb(224, 142, 75);
+}
+
+.secondarybutton:hover{
+    background-color:#ffa875;
+    color: white;
+    border-color:rgb(224, 142, 75);
+}
+
+.bannercolor{
+    background-color: rgb(61, 46, 42);
+}
+
+footer{
+    padding-left: 50px;
+}
